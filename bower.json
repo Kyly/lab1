@@ -1,0 +1,27 @@
+{
+  "name": "cs147-lab-1",
+  "description": "Serving static content via html files",
+  "main": "server.js",
+  "authors": [
+    "Kyly Vass"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "HCI"
+  ],
+  "homepage": "http://kylyv.com/",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
